@@ -32,16 +32,15 @@ The project utilized the available datasets to develop machine learning models c
 
 ## Model Development & Evaluation
 <dl style="font-family: 'Georgia', serif; text-align: justify; line-height: 1.5;">
-  <dt style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;"> Model: </dt>
+  <dt> Model: </dt>
   <dd> I used two machine learning models, which are Support Vector Machine (SVM) and Random Forest Classifier. </dd>
 </dl>
 
 <dl style="font-family: 'Georgia', serif; text-align: justify; line-height: 1.5;">
-  <dt style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;"> Evaluation: </dt>
+  <dt> Evaluation: </dt>
   <dd> I used F1-Score with the best parameters to assess the model performance. The results show that Random Forest is more responsive to optimization than SVM, with an F1-Score value of 85.87% after tuning. </dd>
 </dl>
 
 ## Conclusion
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
-Based on the evaluation using **F1-Score**, the best models of **Support Vector Machine (SVM) and Random Forest Classifier** have the same value of **85.87%**. However, SVM did not improve after tuning, while Random Forest improved from **84.92% to 85.87%**, indicating that optimization had a positive impact on model performance. Although the improvement was small, Random Forest proved to be more responsive to tuning. Therefore, **Random Forest is considered the best model in this study**.
-</p>
+Based on the evaluation using **F1-Score**, the best models of **Support Vector Machine (SVM) and Random Forest Classifier** have the same value of **85.87%**. However, SVM did not improve after tuning, while Random Forest improved from **84.92% to 85.87%**, indicating that optimization had a positive impact on model performance. Although the improvement was small, Random Forest proved to be more responsive to tuning. Therefore, **Random Forest is considered the best model in this study**.</p>
