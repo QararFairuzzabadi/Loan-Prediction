@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Welcome to the Loan Approval Prediction Repository!
 
 ## Event Details
 - **Event Name** : Loan Prediction
