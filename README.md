@@ -43,5 +43,4 @@ The project utilized the available datasets to develop machine learning models c
 
 ## Conclusion
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
-Based on the evaluation using F1-Score, the best models of Support or Machine (SVM) and Random Forest Classifier have the same value of 85.87%. However, SVM did not improve after tuning, while Random Forest improved from 84.92% to 85.87%, indicating that optimization had a positive impact on model performance. Although the improvement was small, Random Forest proved to be more responsive to tuning. Therefore, Random Forest is considered the best model in this study.
-</p>
+Based on the evaluation using F1-Score, the best models of Support or Machine (SVM) and Random Forest Classifier have the same value of 85.87%. However, SVM did not improve after tuning, while Random Forest improved from 84.92% to 85.87%, indicating that optimization had a positive impact on model performance. Although the improvement was small, Random Forest proved to be more responsive to tuning. Therefore, Random Forest is considered the best model in this study.</p>
