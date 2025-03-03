@@ -31,10 +31,14 @@ The project utilized the available datasets to develop machine learning models c
 | Loan Status        | (Target) Loan approved (Yes/ No)          |
 
 ## Model Development & Evaluation
-- **Model**      :
-  I used two machine learning models, which are Support Vector Machine (SVM) and Random Forest Classifier.
-- **Evaluation** :
-  I used F1-Score with the best parameters to assess the model performance. The results show that Random Forest is more responsive to optimization than SVM, with an F1-Score value of   
-  85.87% after tuning.
+<dl style="font-family: 'Georgia', serif; text-align: justify; line-height: 1.5;">
+  <dt> Model :</dt>
+  <dd> I used two machine learning models, which are Support Vector Machine (SVM) and Random Forest Classifier. </dd>
+</dl>
+
+<dl style="font-family: 'Georgia', serif; text-align: justify; line-height: 1.5;">
+  <dt> Evaluation :</dt>
+  <dd> I used F1-Score with the best parameters to assess the model performance. The results show that Random Forest is more responsive to optimization than SVM, with an F1-Score value of 85.87% after tuning. </dd>
+</dl>
 
 ## Conclusion
