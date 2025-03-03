@@ -2,8 +2,8 @@
 
 ## Event Details
 - **Event Name** : Loan Prediction
-- **Hosted by**  : Analytics Vidhya - Hackathon
-- **Event Type** : Data Challenge
+- **Hosted by**   : Analytics Vidhya - Hackathon
+- **Event Type**  : Data Challenge
 
 ## Problem Statement
 <p style="text-align: justify; font-family: 'Georgia', cursive, sans-serif; line-height: 1.5;">
